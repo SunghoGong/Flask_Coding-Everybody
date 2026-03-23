@@ -238,7 +238,7 @@ def update(id):
 
 ### 삭제 기능 구현
 
-→ 삭제에서는 <a href=””></a> 사용하지 않음, POST방식으로 해야함
+→ 삭제에서는 a태그를 사용하지 않음, POST방식으로 해야함
 
 ```python
 def template(contents, content, id=None):
